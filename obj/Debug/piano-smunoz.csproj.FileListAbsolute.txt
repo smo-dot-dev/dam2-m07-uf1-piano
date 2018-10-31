@@ -1,0 +1,12 @@
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\bin\Debug\piano-smunoz.exe.config
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\bin\Debug\piano-smunoz.exe
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\bin\Debug\piano-smunoz.pdb
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\bin\Debug\Toub.Sound.Midi.dll
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\obj\Debug\piano-smunoz.csprojAssemblyReference.cache
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\obj\Debug\piano_smunoz.Form1.resources
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\obj\Debug\piano_smunoz.Properties.Resources.resources
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\obj\Debug\piano-smunoz.csproj.GenerateResource.cache
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\obj\Debug\piano-smunoz.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\obj\Debug\piano-smunoz.csproj.CopyComplete
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\obj\Debug\piano-smunoz.exe
+C:\Users\Samuel\Dropbox\DAM2 Anglès\M07 - Desenvolupament d'interfícies\UF1\uf1-a04-smunoz\uf1-a4-smunoz\obj\Debug\piano-smunoz.pdb
